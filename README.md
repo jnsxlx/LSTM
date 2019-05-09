@@ -1,2 +1,2 @@
 # LSTM
-## A tensorflow implementation of deep learning.
+A tensorflow implementation of LSTM.
